@@ -1,4 +1,7 @@
 # LeetCode AI Mentor 🧠
+ Live Demo
+
+🚀https://leetcode-ai-mentor.vercel.app/
 
 A full-stack MERN application where developers submit coding problems + solutions and receive instant AI-powered analysis: time complexity detection, algorithm pattern recognition, improvement suggestions, and learning progress tracking.
 
