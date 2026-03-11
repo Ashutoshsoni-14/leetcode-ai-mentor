@@ -11,7 +11,8 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts --max_old_space_size=4096 build"
+    "build": "react-scripts --max_old_space_size=4096 build",
+    "postinstall": "chmod +x node_modules/.bin/react-scripts"
   },
   "proxy": "http://localhost:5000",
   "browserslist": {
